@@ -10,8 +10,7 @@ I got curious about this simple command and decided to **deep dive, step by step
 
 ## 🎬 Introduction Video
 
-Watch the introduction to the series here:  
-[![Introduction Video](https://www.linkedin.com/feed/update/urn:li:activity:7411504795322048512/)  
+Watch the introduction to the series here: [Introduction Video](https://www.linkedin.com/feed/update/urn:li:activity:7411504795322048512/)  
 
 ---
 
