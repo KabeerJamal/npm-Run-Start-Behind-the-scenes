@@ -14,6 +14,12 @@ Watch the introduction to the series here: [Introduction Video](https://www.link
 
 ---
 
+## 📺 Full Playlist
+
+Watch the entire series here: [Under the Hood: npm start](https://lnkd.in/esxa-5qN)  
+
+---
+
 ## 🎯 What This Series Covers
 
 In this video series, I walk through the flow that happens when you run `npm start`, including:  
@@ -59,11 +65,6 @@ This kind of understanding makes **debugging feel less like guessing and more li
 
 ---
 
-## 📺 Full Playlist
-
-Watch the entire series here: [Under the Hood: npm start](https://lnkd.in/esxa-5qN)  
-
----
 
 ## 🏷️ Tags
 
