@@ -8,6 +8,13 @@ I got curious about this simple command and decided to **deep dive, step by step
 
 ---
 
+## 🎬 Introduction Video
+
+Watch the introduction to the series here:  
+[![Introduction Video](https://img.shields.io/badge/Watch-Intro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7411504795322048512/)  
+
+---
+
 ## 🎯 What This Series Covers
 
 In this video series, I walk through the flow that happens when you run `npm start`, including:  
