@@ -23,7 +23,7 @@ In this video series, I walk through the flow that happens when you run `npm sta
 
 ## 🔧 How I Demonstrate It
 
-I don’t just explain the theory — I **prove it with real-world examples**:  
+I don’t just explain the theory, I **prove it with real-world examples**:  
 
 - Inspecting real processes in Linux (WSL) 🐧  
 - Tracing the actual npm source code  
